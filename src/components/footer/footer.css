@@ -1,0 +1,25 @@
+.footer_link{
+    padding: 10px 50px;
+    margin: auto;
+    text-align: center;
+    background-color: #2ec4b6;
+}
+
+.footer_link a{
+    margin: 0px 15px;
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.footer_link a:hover {
+    color: #ff9f1c;
+}
+
+@media only screen and (max-width: 520px) {
+    .footer_link a{
+        display: flex;
+        flex-direction: column;
+    }
+
+}

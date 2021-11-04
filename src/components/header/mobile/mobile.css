@@ -1,0 +1,51 @@
+.mobile_page {
+    background-color: #cbf3f0;
+    height: 100vh;
+    width: 60vw;
+    position: absolute;
+    right: 0px;
+    top: -6px;
+    padding: 30px 12px;
+    display: flex;
+    flex-direction: column;
+    z-index: 1;
+}
+
+.close_icon {
+    color: #2ec4b6;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+}
+
+.close_icon:hover {
+    color: #ff9f1c;
+    cursor: pointer;
+}
+
+.mobile_options {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 24px;
+    justify-content: center;
+    align-items: center;
+    height: 65%;
+}
+
+.options {
+    font-size: 25px;
+    margin: 12px 0px;
+    display: flex;
+}
+
+.options a {
+    text-decoration: none;
+    display: flex;
+    color: #2ec4b6;
+    font-weight: 700;
+}
+
+.options a:hover{
+    color: #ff9f1c;
+}

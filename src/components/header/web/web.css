@@ -1,0 +1,33 @@
+.webpage {
+    display: flex;
+    flex: 1;
+    align-items: center;
+}
+
+.webpage_options {
+    margin-right: 70px;
+    font-size: 19px;
+    font-weight: 500;
+    
+}
+
+.webpage_options a {
+    text-decoration: none;
+    display: flex;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.webpage_options a:hover {
+    color: #ff9f1c;
+}
+
+.select_icon {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.webpage:last-child {
+    margin-right: 10px;
+}

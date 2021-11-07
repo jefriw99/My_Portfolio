@@ -19,7 +19,7 @@ function Intro() {
                 <br/>building websites.
             </div>
             <div className="intro_photo">
-                <img src={require('../../../images/desktop.png').default} className="desktop"/>
+                <img src={require('../../../images/desktop.png').default} className="desktop" alt="desktop_photo"/>
             </div>
         </div>
     )

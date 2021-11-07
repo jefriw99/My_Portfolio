@@ -6,7 +6,7 @@ function About() {
         <div className="about">
             <div className="container">
                 <div className="picture">
-                    <img src={require('../../../images/profile_pic.jpg').default} className="profile_picture"/>
+                    <img src={require('../../../images/profile_pic.jpg').default} className="profile_picture" alt="Profile_Picture"/>
                 </div>
                 <div className="info">
                     <span className="greeting">Nice to meet you.</span>

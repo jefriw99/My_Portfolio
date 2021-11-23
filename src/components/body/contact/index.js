@@ -14,7 +14,7 @@ function Contact() {
                     <SocialContact />
                 </div>
                 <div className="download">
-                    <a download href={require("../../../download/Resume.pdf").default}>
+                    <a download href={require("../../../download/Jefri_resume.pdf").default}>
                         <i class='fi-rr-cloud-download download-icon' />Download Resume
                     </a>  
                 </div>

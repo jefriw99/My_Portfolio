@@ -12,10 +12,10 @@ function About() {
                     <span className="greeting">Nice to meet you!</span>
                     <br/>
                     <br/>I'm an accounting student with previous experience in the 
-                    property management and marketing consulting. 
+                    property management industry and marketing strategies role. 
                     <br/>
                     <br/>Currently, a postgraduate student who has a strong passion for web 
-                    development and graphic designing.
+                    development and information systems.
                     <br/>
                     <br/>Although I'm new to web development, I'm naturally curious 
                     and actively learning new ways to make my websites more exciting.  

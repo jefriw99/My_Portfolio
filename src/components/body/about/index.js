@@ -9,17 +9,16 @@ function About() {
                     <img src={require('../../../images/profile_pic.jpg').default} className="profile_picture" alt="Profile_Picture"/>
                 </div>
                 <div className="info">
-                    <span className="greeting">Nice to meet you.</span>
+                    <span className="greeting">Nice to meet you!</span>
                     <br/>
-                    <br/>I'm an accounting graduate with previous experience in the 
-                    real estate and finance industry. 
+                    <br/>I'm an accounting student with previous experience in the 
+                    property management and marketing consulting. 
                     <br/>
-                    <br/>Currently, I'm a Master of Business Information Systems 
-                    student at Monash University who has a strong passion for web 
+                    <br/>Currently, a postgraduate student who has a strong passion for web 
                     development and graphic designing.
                     <br/>
                     <br/>Although I'm new to web development, I'm naturally curious 
-                    and actively learning new ideas to improve my abilities.  
+                    and actively learning new ways to make my websites more exciting.  
                 </div>
             </div>
         </div>

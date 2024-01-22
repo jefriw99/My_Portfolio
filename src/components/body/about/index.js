@@ -14,7 +14,7 @@ function About() {
                     <br/>I'm a gradaute accountant currently immersed in the field of 
                     business tax services. 
                     <br/>
-                    <br/>Beyond numbers and financial statements, my true passion lies in
+                    <br/>Beyond numbers and financial statements, my true passion lies
                     information systems and technology.
                     <br/>
                     <br/>Eager to merge my accounting expertise with technological 

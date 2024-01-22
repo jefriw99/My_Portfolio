@@ -15,7 +15,7 @@ function About() {
                     business tax services. 
                     <br/>
                     <br/>Beyond numbers and financial statements, my true passion lies in
-                    in information systems and technology.
+                    information systems and technology.
                     <br/>
                     <br/>Eager to merge my accounting expertise with technological 
                     innovation, I'm on a journey to integrate financial solutions in

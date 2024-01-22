@@ -18,7 +18,7 @@ function About() {
                     in web development and information systems.
                     <br/>
                     <br/>Eager to merge my accounting expertise with technological 
-                    innovatioln, I'm on a journey to integrate financial solutions in
+                    innovation, I'm on a journey to integrate financial solutions in
                     the digital realm.
                 </div>
             </div>

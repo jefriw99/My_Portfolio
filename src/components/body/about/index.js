@@ -11,14 +11,15 @@ function About() {
                 <div className="info">
                     <span className="greeting">Nice to meet you!</span>
                     <br/>
-                    <br/>I'm an accounting student with previous experience in the 
-                    property management industry and marketing strategies role. 
+                    <br/>I'm a gradaute accountant currently immersed in the field of 
+                    business tax services. 
                     <br/>
-                    <br/>Currently, a postgraduate student who has a strong passion for web 
-                    development and information systems.
+                    <br/>Beyond numbers and financial statements, my true passion lies in
+                    in web development and information systems.
                     <br/>
-                    <br/>Although I'm new to web development, I'm naturally curious 
-                    and actively learning new ways to make my websites more exciting.  
+                    <br/>Eager to merge my accounting expertise with technological 
+                    innovatioln, I'm on a journet to integrate financial solutions in
+                    the digital realm.
                 </div>
             </div>
         </div>

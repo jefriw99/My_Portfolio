@@ -6,7 +6,7 @@ function About() {
         <div className="about">
             <div className="container">
                 <div className="picture">
-                    <img src={require('../../../images/profile_pic.jpg').default} className="profile_picture" alt="Profile_Picture"/>
+                    <img src={require('../../../images/profile_picture.jpg').default} className="profile_picture" alt="Profile_Picture"/>
                 </div>
                 <div className="info">
                     <span className="greeting">Nice to meet you!</span>
@@ -18,7 +18,7 @@ function About() {
                     in web development and information systems.
                     <br/>
                     <br/>Eager to merge my accounting expertise with technological 
-                    innovatioln, I'm on a journet to integrate financial solutions in
+                    innovatioln, I'm on a journey to integrate financial solutions in
                     the digital realm.
                 </div>
             </div>
